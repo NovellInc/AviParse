@@ -1,0 +1,9 @@
+c:\users\omelchuk.roman\documents\visual studio 2013\Projects\AviParse\AviParse\bin\Debug\AviParse.exe.config
+c:\users\omelchuk.roman\documents\visual studio 2013\Projects\AviParse\AviParse\bin\Debug\AviParse.exe
+c:\users\omelchuk.roman\documents\visual studio 2013\Projects\AviParse\AviParse\bin\Debug\AviParse.pdb
+c:\users\omelchuk.roman\documents\visual studio 2013\Projects\AviParse\AviParse\bin\Debug\CsQuery.dll
+c:\users\omelchuk.roman\documents\visual studio 2013\Projects\AviParse\AviParse\bin\Debug\CsQuery.xml
+c:\users\omelchuk.roman\documents\visual studio 2013\Projects\AviParse\AviParse\obj\Debug\AviParse.csprojResolveAssemblyReference.cache
+c:\users\omelchuk.roman\documents\visual studio 2013\Projects\AviParse\AviParse\obj\Debug\AviParse.exe
+c:\users\omelchuk.roman\documents\visual studio 2013\Projects\AviParse\AviParse\obj\Debug\AviParse.pdb
+c:\users\omelchuk.roman\documents\visual studio 2013\Projects\AviParse\AviParse\bin\Debug\xNet.dll
